@@ -14,8 +14,11 @@ Output:  ["anta", "nata", "tana"],
 - JavaScript
 
 ## Project presentation
- - https://www.loom.com/share/b29b1eb59b51440cb293d15301745d30?sharedAppSource=personal_library
- - https://www.loom.com/share/b29b1eb59b51440cb293d15301745d30?sharedAppSource=personal_library
+
+- Explanation
+  https://www.loom.com/share/b29b1eb59b51440cb293d15301745d30?sharedAppSource=personal_library
+- Execution 
+- https://www.loom.com/share/f5a1a7c3a9414a088fdeaa413bcd12e5?sharedAppSource=personal_library
 
 
 > This is a challenge by Ws Solution
