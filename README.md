@@ -10,7 +10,6 @@ Output:  ["anta", "nata", "tana"],
 
 
 ## Languages
-- NodeJs
 - JavaScript
 
 ## Project presentation
